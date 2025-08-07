@@ -84,3 +84,5 @@
 // for (let i = 0; i < alphabet.length; i++) {
 //     console.log((i + 1) + ": " + alphabet.charAt(i));
 // }
+
+console.log("salom");
